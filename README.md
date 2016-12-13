@@ -1,5 +1,7 @@
 # Stippling with Lloyd's algorithm
+
 **STEP 1**
+
 Clone the project into your folder and open MATLAB.
 
 ```
@@ -10,6 +12,7 @@ matlab
 ```
 
 **STEP 2**
+
 Type the MATLAB code below.
 
 ```matlab
